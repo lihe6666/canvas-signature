@@ -15,4 +15,4 @@ $ npm install --dev sass
 $ npm run dev:h5
 ```
 
-
+![screenshot01.png](https://github.com/lihe6666/canvas-signature/raw/main/screenshot01.png)
